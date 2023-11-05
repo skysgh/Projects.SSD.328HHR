@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="draped" id="draped">
+	<SimpleField name="Label" type="string"></SimpleField>
+	<SimpleField name="Tags" type="string"></SimpleField>
+	<SimpleField name="Dimension" type="string"></SimpleField>
+	<SimpleField name="Slope" type="float"></SimpleField>
+</Schema>
+<Folder><name>draped</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#draped">
+		<SimpleData name="Label">Farfield Trk</SimpleData>
+		<SimpleData name="Slope">1835952.26144129</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>82.9264066026565,-75.8151454752489,338.824432373047 82.9264066036357,-75.8151454715384,335.670196533203 82.9264066052044,-75.8151454697643,331.763275146484 82.9264066046534,-75.8151454686994,328.4990234375 82.9264066035432,-75.8151454680438,324.747344970703 82.9264066033296,-75.8151454663784,321.555541992188 82.9264066057875,-75.8151454649049,318.106567382812 82.9264066089113,-75.8151454638685,313.506439208984 82.9264066118094,-75.815145463378,312.741790771484</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#draped">
+		<SimpleData name="Label">Spider</SimpleData>
+		<SimpleData name="Tags">PERMITTED</SimpleData>
+		<SimpleData name="Slope">97336227.4432783</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>82.9264064796658,-75.8151454962054,0 82.9264064834665,-75.8151454935312,370.740478515625 82.9264064824671,-75.8151454930121,370.059936523438</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#draped">
+		<SimpleData name="Label">Picnic Trk</SimpleData>
+		<SimpleData name="Tags">PERMITTED</SimpleData>
+		<SimpleData name="Slope">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>82.9264063690805,-75.8151454963606,0 82.9264063690805,-75.8151454963606,0 82.9264063748063,-75.8151454946171,422.884246826172 82.9264063778693,-75.8151454945051,423.452514648438 82.9264063798444,-75.8151454946429,422.353515625 82.9264063815194,-75.8151454954507,420.857177734375 82.9264063829604,-75.8151454969204,0</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#draped">
+		<SimpleData name="Label">TreeHouse Trk</SimpleData>
+		<SimpleData name="Slope">1517195.58003339</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>82.926406564927,-75.815145472384,341.69775390625 82.9264065642228,-75.8151454716736,339.714508056641 82.9264065650329,-75.8151454711601,338.205718994141 82.9264065682633,-75.8151454707141,336.530944824219 82.9264065742221,-75.8151454701032,335.306335449219</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#draped">
+		<SimpleData name="Label">Rich Trk</SimpleData>
+		<SimpleData name="Slope">165199.462905539</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>82.9264065745353,-75.8151454701289,335.549468994141 82.9264065764144,-75.8151454703087,337.460784912109 82.9264065848654,-75.8151454719758,333.603515625 82.9264065898661,-75.8151454743331,334.477935791016</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#draped">
+		<SimpleData name="Label">Crescent Trk</SimpleData>
+		<SimpleData name="Slope">1385456.38518863</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>82.9264065795065,-75.81514547794,348.59423828125 82.9264065823383,-75.8151454757389,346.661682128906 82.9264065815384,-75.8151454723005,337.930084228516 82.9264065757847,-75.8151454708462,338.580871582031 82.9264065742052,-75.8151454701301,335.306335449219</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#draped">
+		<SimpleData name="Label">Chapel Firebreak Trk</SimpleData>
+		<SimpleData name="Slope">2543786.62890682</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>82.9264065766347,-75.8151454681836,328.539947509766 82.9264065766347,-75.8151454681836,328.539947509766 82.9264065787387,-75.815145465419,323.764587402344 82.9264065787387,-75.815145465419,323.764587402344 82.9264065804211,-75.8151454633199,320.81982421875 82.9264065809451,-75.8151454629872,320.160278320312 82.9264065828272,-75.8151454626037,320.771881103516 82.9264065835655,-75.8151454612725,315.907379150391 82.9264065924531,-75.8151454583742,303.766296386719 82.9264065935972,-75.8151454580945,301.888427734375 82.9264066004595,-75.8151454567663,293.544982910156 82.926406601831,-75.8151454566827,290.135986328125 82.9264066025159,-75.8151454567809,288.905548095703</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#draped">
+		<SimpleData name="Label">...</SimpleData>
+		<SimpleData name="Slope">2875245.21329495</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>82.926406573938,-75.8151454701179,335.078216552734 82.926406573938,-75.8151454701179,335.078216552734 82.9264065765762,-75.8151454681862,328.539947509766</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#draped">
+		<SimpleData name="Label">Orchard Trk</SimpleData>
+		<SimpleData name="Tags">PERMITTED</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#draped">
+		<SimpleData name="Label">Cabbage Trk</SimpleData>
+		<SimpleData name="Slope">1538676.80874276</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>82.9264064821927,-75.8151454957289,372.804779052734 82.9264064980803,-75.8151454959833,363.697479248047 82.9264065072997,-75.8151454952696,362.029937744141</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#draped">
+		<SimpleData name="Label">Knowhere TS</SimpleData>
+		<SimpleData name="Slope">712923.312950354</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>82.9264065726695,-75.8151454771548,353.197692871094 82.9264065738688,-75.8151454786977,351.94775390625</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#draped">
+		<SimpleData name="Label">Faraway Trk</SimpleData>
+		<SimpleData name="Slope">119922.105721558</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>82.926406604381,-75.8151454685842,327.513641357422 82.9264066066081,-75.815145467274,328.39892578125 82.9264066086408,-75.8151454670621,329.403900146484 82.9264066101311,-75.8151454672025,329.488006591797 82.926406611755,-75.8151454679072,328.409545898438 82.9264066139039,-75.815145468858,327.784545898438 82.9264066172634,-75.8151454704329,329.182312011719 82.926406620976,-75.8151454719226,331.28662109375 82.9264066257532,-75.8151454723419,330.88623046875 82.9264066298318,-75.8151454730647,329.995025634766 82.9264066326218,-75.815145473596,328.670349121094 82.9264066379435,-75.8151454736962,329.1767578125</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#draped">
+		<SimpleData name="Label">Meadow Bottom Trck</SimpleData>
+		<SimpleData name="Slope">492725.614150707</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>82.9264065211331,-75.8151454826881,363.34423828125 82.926406522395,-75.8151454827375,363.416015625 82.9264065235601,-75.8151454831493,363.984619140625 82.9264065236096,-75.8151454840345,364.871978759766 82.9264065242308,-75.8151454846687,365.132537841797 82.9264065259692,-75.8151454853817,364.154174804688 82.9264065285525,-75.8151454859401,362.650817871094 82.9264065296481,-75.8151454862993,362.222442626953 82.9264065365988,-75.8151454880296,360.845092773438 82.9264065394358,-75.8151454886629,360.399658203125 82.9264065414413,-75.8151454891873,360.552276611328 82.9264065422838,-75.8151454894912,359.84375 82.9264065434627,-75.8151454899964,359.678802490234 82.9264065445525,-75.8151454906973,358.865356445312 82.9264065464048,-75.8151454911658,357.415100097656 82.9264065483221,-75.8151454910075,356.526397705078 82.9264065498243,-75.8151454910349,356.445556640625 82.9264065525007,-75.8151454909757,356.369781494141 82.9264065546916,-75.8151454907914,355.974395751953 82.9264065576925,-75.8151454907769,355.275970458984 82.9264065610477,-75.8151454903902,356.085388183594 82.926406564108,-75.8151454897064,355.570617675781 82.9264065666963,-75.8151454890235,355.716918945312 82.9264065693841,-75.8151454883319,356.494079589844 82.926406571164,-75.8151454875075,354.803863525391 82.926406572015,-75.8151454866238,352.676635742188</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#draped">
+		<SimpleData name="Label">Crazy Goat Trk</SimpleData>
+		<SimpleData name="Slope">1445645.09292879</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>82.9264064371528,-75.8151454916198,393.701721191406 82.926406444499,-75.8151454904582,387.748596191406 82.926406444499,-75.8151454904582,387.748596191406 82.9264064475602,-75.815145488004,384.337280273438 82.9264064532134,-75.8151454858636,377.722015380859 82.9264064552651,-75.815145484887,375.237670898438 82.9264064580356,-75.8151454842103,373.780029296875 82.9264064615507,-75.8151454842901,373.805297851562 82.9264064626099,-75.8151454850954,375.905487060547</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
